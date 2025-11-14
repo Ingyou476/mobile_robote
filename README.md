@@ -23,5 +23,5 @@ python dh_matrix.py
 - Graphiques 2D des angles d’orientation.
 - Export possible en CSV ou PNG.
 👨‍💻 Auteur
-Projet réalisé par Abdel-Aziz Youssouf
+Projet réalisé par Abdel-Aziz Youssouf et Florian 
 Étudiant à l’EPISEN – Formation ingénieur en informatique et cybersécurité appliquée à la santé.
