@@ -2,7 +2,7 @@
 """
 Programme 1 — DH5→0 pour une configuration donnée
 EPISEN | Modélisation géométrique directe (DH)
-Auteur : Vous
+Auteur : Abdel-Aziz & Florian
 
 Ce script :
 1) calcule la matrice homogène T_5_0 (repère 5 vers repère 0) pour Q = [q1..q5]
