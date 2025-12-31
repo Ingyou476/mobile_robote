@@ -2,7 +2,7 @@
 """
 Programme 2 — Trajectoire : DH5→0 pour chaque point
 EPISEN | Modélisation géométrique directe (DH)
-Auteur : Vous
+Auteur : Abdel-Aziz & Florian
 
 Ce script :
 1) Génère une trajectoire articulaire Q(t) de N points (modifiable)
